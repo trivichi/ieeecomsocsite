@@ -99,7 +99,7 @@ function ExecutiveBoard() {
               </div>
 
               <div className="member-card">
-                <img src="/photos/Kavi_Rohith_M-(Co-Secretary).jpg" alt="Co-Secretary" />
+                <img src="/photos/Kavi_Rohith_M-(Co-Secretary)-1.jpg" alt="Co-Secretary" />
                 <div className="member-info">
                   <h3>Kavi Rohith M</h3>
                   <p>Co-Secretary</p>
@@ -185,10 +185,10 @@ function ExecutiveBoard() {
             {/* PR and Projects Heads - Row 3 */}
             <div className="pr-projects-row">
               <div className="member-card">
-                <img src="/photos/Aniruddh_Russiya-(PR_&_Publicity_Head).jpg" alt="PR & Publicity Head" />
+                <img src="/photos/Aniruddh_Rusiya-(Marketing_&_Publicity_Head).jpg" alt="PR & Publicity Head" />
                 <div className="member-info">
-                  <h3>Aniruddh Russiya</h3>
-                  <p>PR & Publicity Head</p>
+                  <h3>Aniruddh Rusiya</h3>
+                  <p>Marketing & Publicity Head</p>
                 </div>
                 <div className="social-icons">
                   <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">

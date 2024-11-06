@@ -54,8 +54,6 @@ function AboutUs() {
             <center>
               <h2 className="section-title">
                 DOMAINS
-                <span className="diamond-left"></span>
-                <span className="diamond-right"></span>
               </h2>
             </center>
           </div>

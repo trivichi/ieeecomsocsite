@@ -32,7 +32,8 @@
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   animation: fadeIn 0.5s ease;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
+  height: 90%;
 }
 
 .blog-card:hover {
@@ -65,7 +66,10 @@
   flex: 1;
   display: flex;
   flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
+
 
 .blog-title {
   font-size: 1.5rem;
@@ -96,6 +100,12 @@
   cursor: pointer;
   transition: all 0.3s ease;
   font-weight: 600;
+  margin: 0 auto;
+  line-height: 1;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .read-more:hover {
@@ -125,4 +135,19 @@
     opacity: 1;
     transform: translateY(0);
   }
+}
+
+.blog-top-section {
+  display: flex;
+  flex-direction: row;
+  height: 50%;
+  padding:1rem;
+}
+
+.blog-body {
+  padding: 2rem;
+  height: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }

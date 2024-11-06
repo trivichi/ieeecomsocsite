@@ -34,6 +34,7 @@
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   animation: fadeIn 1s ease, slideUp 1s ease;
+  text-align: left;
 }
 
 .satellite-canvas {
